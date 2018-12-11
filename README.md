@@ -2,6 +2,8 @@
 A bash script for Macintosh with parameters for learning bash scripting
 
 # Preparation and Setup
+0. Install your downloader tool of choice. For learning I use: youtube-dl
+
 1. Extend your bash_profile with a shortcut to use the scriptfile anywhere in the file system
 
     Bash profile location: ~/.bash_profile
