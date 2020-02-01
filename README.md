@@ -7,6 +7,7 @@ A bash script for Macintosh with parameters for learning bash scripting
 1. Extend your bash_profile with a shortcut to use the scriptfile anywhere in the file system
 
     Bash profile location: ~/.bash_profile
+    
     Enter an alias:      alias mp3YT="bash ./mp3fromYT.sh"
     
 2. Create a new (script) file: mp3fromYT.sh
@@ -53,6 +54,7 @@ fi
 # Helpful tools & Learnings
 A) https://www.shellcheck.net/ ; One can check the shell script while typing.
 
-B) Empty space around [ and ] are needed. 
+B) Empty space around [ and ] are needed.
+
 C) Putting parameter in "" helps with word splits or globbering.
 
