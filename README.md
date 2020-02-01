@@ -53,6 +53,7 @@ fi
 # Helpful tools & Learnings
 A) https://www.shellcheck.net/ ; One can check the shell script while typing.
 
-B) Empty space around [ and ] are needed. 
+B) Empty space around [ and ] are needed.
+
 C) Putting parameter in "" helps with word splits or globbering.
 
